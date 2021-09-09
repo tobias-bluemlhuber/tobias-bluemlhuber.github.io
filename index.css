@@ -4,9 +4,12 @@ body {
 }
 .heading {
     background-color: black;
+    padding:10px;
+}
+.heading a {
+    text-decoration: none;
 }
 .heading a b {
     color: rgb(255, 255, 255);
     font-size:40px;
-    text-decoration: none;
 }
